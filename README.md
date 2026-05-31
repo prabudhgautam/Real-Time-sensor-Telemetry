@@ -1,2 +1,5 @@
 # Real-Time-sensor-Telemetry
-This project is a merge of hardware and software. hardware senses and sends data bits to our system (laptop) using which data is processed, decision logic loop is applied on it , also the data will be logged into a csv file for better analysis afterwards, at last a real time data graph will be plotted in real time.
+## Project Overview
+This project demonstrates a complete telemetry pipeline using Arduino and Python.
+The ultrasonic sensor measures distance and sends the data to the computer through UART serial communication. Python receives the sensor data, processes it, applies decision logic, stores the readings in a CSV file for future analysis, and plots the distance values in real time using Matplotlib.
+This project combines embedded systems, serial communication, data logging, and real-time visualization.
