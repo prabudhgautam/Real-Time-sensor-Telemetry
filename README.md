@@ -5,3 +5,4 @@ The ultrasonic sensor measures distance and sends the data to the computer throu
 This project combines embedded systems, serial communication, data logging, and real-time visualization.
 ## Hardware Setup
 ![Hardware Setup](Images/Hardware_setup.png)
+## Graph
